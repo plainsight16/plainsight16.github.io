@@ -1,0 +1,43 @@
+body{
+	background-image: url("file:///C:/Users/Sola/Documents/sr/websites/2/header.jpg.jpg");
+	background-size: cover;
+
+}
+h1{
+	font-family: "Montserrat","sans-serif";
+	color:white;
+font-size: 2rem;
+text-align: center;
+padding-top: 325px;
+text-transform: uppercase;	
+
+}
+hr{
+	 max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+
+}
+ hr{
+	 margin-top:148px;
+
+}
+.button{
+ font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+   padding: 1rem 2rem; 
+background-color: #F05F44;
+  border-color: #F05F44;
+  margin-left: 450px;
+  color:white;
+
+}
+.button:hover{
+	 background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+
+}
